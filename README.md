@@ -11,6 +11,6 @@ Storing guest details of the users, like their email address, contact number and
 Provide the guests with details such as the date and locaton of the wedding.
 
 
-![alt text](https://github.com/GloryMabunda/WeddingWebsite//tree/master/images/Capture1.PNG?raw=true)
+![alt text](https://github.com/GloryMabunda/WeddingWebsite/tree/master/images/Capture1.PNG?raw=true)
 
-![alt text](https://github.com/GloryMabunda/WeddingWebsite//tree/master/images/Capture2.PNG?raw=true)
+![alt text](https://github.com/GloryMabunda/WeddingWebsite/tree/master/images/Capture2.PNG?raw=true)
