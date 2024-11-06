@@ -8,6 +8,7 @@ Additionally, the system sends an email notification to the organizer whenever a
 - **Real-Time Organizer Notifications**: Sends an automated email update to the wedding organizers each time an RSVP is submitted, keeping them informed.
 - **Centralized Guest Management**: Utilizes Google Sheets to capture and store RSVP details, simplifying the event planning process.
 - **Wedding Details Display**: Provides guests with essential wedding information, such as date, location, and time.
+- **Pin Wedding Venue Location on Google Maps**: Displays the wedding venue's location on Google Maps, allowing guests to easily find directions.
 
 ##  Technologies Used
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
